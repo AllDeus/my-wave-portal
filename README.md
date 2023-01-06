@@ -1,6 +1,6 @@
 # my-wave-portal
 
-Dapp using etherium and blockchain technolgy. 
+Dapp using ethereum and blockchain technolgy. 
 
 tools: React, Hardhat, ether.js, Solidiy, Vite, Replit IDE 
 
